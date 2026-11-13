@@ -1,0 +1,17 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Python 虚拟环境
+.venv/
+venv/
+.env
+
+# 实验中间文件
+*.pth
+*.npz
+
+# IDE 配置
+.vscode/
+.idea/
